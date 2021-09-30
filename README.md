@@ -1,3 +1,5 @@
-# quantum-computing-in-qm
+# Quantum Computing Tutorials for Topics in Introductory Quantum Mechanics
 
-## test
+## Overview
+
+A series of Jupyter notebooks exploring aspects of...
