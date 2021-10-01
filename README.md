@@ -8,3 +8,5 @@ The notebooks on this repository were used in an undergraduate course on quantum
 - [Time Evolution](tutorials/03_TimeEvolution/03_TimeEvolution.ipynb)
 - [Multiparticle Systems and Entanglement](tutorials/04_Entanglement/04_Entanglement.ipynb)
 - [EPR Experiment and Bell's Inequality](tutorials/05_BellsInequality/05_BellsInequality.ipynb)
+
+More detailed exposition on various activities is documented in my blog: [Theoretically Physics](https://theoreticallyphysics.wordpress.com/)
