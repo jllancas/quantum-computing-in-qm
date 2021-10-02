@@ -5,7 +5,7 @@
   Results shown from <b>ibmq_bogota v1.4.49</b>, one of the IBM Quantum Falcon Processors
 </p>
 
-The notebooks on this repository were used in an undergraduate course on quantum mechanics (PHY 3310) at High Point University during the Fall 2021 semester. Completed notebooks are available in the [solutions](tutorials/solutions) folder.
+The notebooks on this repository were used in an undergraduate course on quantum mechanics (PHY 3310) at [High Point University](https://www.highpoint.edu/physics/) during the Fall 2021 semester. Completed notebooks are available in the [solutions](tutorials/solutions) folder.
 
 
 - [Introduction to Single Spins](tutorials/01_IntroSingleSpins/01_IntroSingleSpin.ipynb)
