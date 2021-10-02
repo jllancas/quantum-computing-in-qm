@@ -1,7 +1,7 @@
 # Quantum Computing Tutorials for Topics in Introductory Quantum Mechanics
 
 <p align="center">
-<img src="bogotaanim.gif" alt="uncertainty principle animation" width="500"/>
+<img src="bogotaanim.gif" alt="uncertainty principle animation" width="500"/><br>
   <i>Results shown from ```ibmq_bogota``` </i>v 1.4.49,<i> one of the IBM Quantum Falcon Processors)</i>
 </p>
 
