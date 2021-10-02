@@ -1,6 +1,7 @@
 # Quantum Computing Tutorials for Topics in Introductory Quantum Mechanics
 
 ![uncertainty principle animation](bogotaanim.gif)
+(Results shown from ```ibmq_bogota``` v 1.4.49, one of the IBM Quantum Falcon Processors)
 
 The notebooks on this repository were used in an undergraduate course on quantum mechanics (PHY 3310) at High Point University during the Fall 2021 semester. Completed notebooks are available in the [solutions](tutorials/solutions) folder.
 
@@ -12,3 +13,5 @@ The notebooks on this repository were used in an undergraduate course on quantum
 - [EPR Experiment and Bell's Inequality](tutorials/05_BellsInequality/05_BellsInequality.ipynb)
 
 More detailed exposition on various activities is documented in my blog: [Theoretically Physics](https://theoreticallyphysics.wordpress.com/)
+
+I acknowledge the use of IBM Quantum services for this work. The views expressed are those of the author, and do not reflect the official policy or position of IBM or the IBM Quantum team. Additionally, I acknowledge the access to advanced services provided by the IBM Quantum Educators Program.
