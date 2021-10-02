@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="bogotaanim.gif" alt="uncertainty principle animation" width="500"/><br>
-  Results shown from ```ibmq_bogota``` v 1.4.49, one of the IBM Quantum Falcon Processors
+  Results shown from <b>ibmq_bogota v 1.4.49</b>, one of the IBM Quantum Falcon Processors
 </p>
 
 The notebooks on this repository were used in an undergraduate course on quantum mechanics (PHY 3310) at High Point University during the Fall 2021 semester. Completed notebooks are available in the [solutions](tutorials/solutions) folder.
@@ -16,4 +16,4 @@ The notebooks on this repository were used in an undergraduate course on quantum
 
 More detailed exposition on various activities is documented in my blog: [Theoretically Physics](https://theoreticallyphysics.wordpress.com/)
 
-I acknowledge the use of IBM Quantum services for this work. The views expressed are those of the author, and do not reflect the official policy or position of IBM or the IBM Quantum team. Additionally, I acknowledge the access to advanced services provided by the IBM Quantum Educators Program.
+I acknowledge the use of [IBM Quantum](https://www.ibm.com/quantum-computing/) services for this work. The views expressed are those of the author, and do not reflect the official policy or position of IBM or the IBM Quantum team. Additionally, I acknowledge the access to advanced services provided by the [IBM Quantum Educators Program](https://quantum-computing.ibm.com/programs/educators).
