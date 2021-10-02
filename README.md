@@ -1,4 +1,4 @@
-# Quantum Computing Tutorials for Topics in Introductory Quantum Mechanics
+# Quantum Computing Tutorials for Introductory Quantum Mechanics
 
 <p align="center">
 <img src="bogotaanim.gif" alt="uncertainty principle animation" width="500"/><br>
