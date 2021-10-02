@@ -1,5 +1,7 @@
 # Quantum Computing Tutorials for Topics in Introductory Quantum Mechanics
 
+![uncertainty principle animation](bogotaanim.gif)
+
 The notebooks on this repository were used in an undergraduate course on quantum mechanics (PHY 3310) at High Point University during the Fall 2021 semester. Completed notebooks are available in the [solutions](tutorials/solutions) folder.
 
 
