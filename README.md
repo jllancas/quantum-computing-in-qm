@@ -1,9 +1,9 @@
 # Quantum Computing Tutorials for Topics in Introductory Quantum Mechanics
 
-<center>
-<img src="bogotaanim.gif" alt="uncertainty principle animation" width="200"/>
+<p align="center">
+<img src="bogotaanim.gif" alt="uncertainty principle animation" width="500"/>
   <i>Results shown from ```ibmq_bogota``` </i>v 1.4.49,<i> one of the IBM Quantum Falcon Processors)</i>
-</center>
+</p>
 
 The notebooks on this repository were used in an undergraduate course on quantum mechanics (PHY 3310) at High Point University during the Fall 2021 semester. Completed notebooks are available in the [solutions](tutorials/solutions) folder.
 
